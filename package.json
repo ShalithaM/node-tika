@@ -35,7 +35,7 @@
 	},
 	"license": "MIT",
 	"dependencies": {
-		"java": "^0.12.1"
+		"java": "0.12.2"
 	},
 	"devDependencies": {
 		"mocha": "~7.1.1",
